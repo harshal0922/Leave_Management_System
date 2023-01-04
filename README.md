@@ -23,7 +23,5 @@ This project is an interactive leave application portal which includes Human res
    npm run start 
    ```
 4. Open the url `http://localhost:8000` in browser for seeing the result.
-5.--FOR BACKEND SERVER 
-6. Import the project in IDE
-7. Run the project as a spring boot application
-8.  Backend Server will be started at port 8080
+5. --For Backend Server
+
